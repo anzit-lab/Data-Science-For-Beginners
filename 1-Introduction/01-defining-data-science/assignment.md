@@ -20,7 +20,7 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
+| Education |Students have large amount of study materials which can often confuse them and put them into deep stress | Study materials which are actually important and come in exams | We can use a online doc to arrange all the reevant information in one place | We can ignore the unnessesary stuff and focus on what is going to beneficial in future |
 | Vaccination | | | | |
 | Productivity | | | | |
 
